@@ -1,0 +1,27 @@
+.into{
+    justify-content: center;
+    gap: 4px;
+    
+}
+
+.chitro{
+    width: 100px;
+
+    height: 30%;
+    border-radius: 50%;
+    margin-left: 35%;
+    
+}
+
+.font{
+    font-family: 'M PLUS 1', sans-serif;
+    font-weight: 900;
+    color: black;
+}
+
+.side{
+    margin-left: 30%;
+}
+.color{
+    background-color: rgb(155, 218, 247);
+}

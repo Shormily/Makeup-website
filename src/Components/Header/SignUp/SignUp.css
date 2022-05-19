@@ -1,0 +1,55 @@
+*{
+    font-family: 'M PLUS 1', sans-serif;
+    font-weight: 900;
+}
+.seige{
+    font-size: 15px;
+    text-decoration: none;
+    justify-content: center;
+    color: rgb(13, 85, 10);
+}
+.decoration{
+    text-decoration: none;
+}
+
+.resizer{
+    width: 90%;
+    background-color:hotpink;
+    padding: 10px;
+    
+}
+.input-part{
+    margin-top: 10px;
+    margin-right: 15%;
+
+}
+.btn{
+    background-color: brown;
+    padding: 10px;
+}
+.btn:hover{
+    background-color:rgb(30, 33, 34);
+    padding: 10px;
+    
+}
+
+.contact{
+    margin-top: 10%;
+}
+
+.btn-2{
+ background-color:peru;
+ padding: 10px;
+ border: none;
+ border-radius: 10px;
+ 
+
+}
+.btn-2:hover{
+ background-color:rgb(54, 36, 54);
+ padding: 10px;
+ border: none;
+ border-radius: 10px;
+ 
+
+}

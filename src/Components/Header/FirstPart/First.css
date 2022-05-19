@@ -1,0 +1,19 @@
+.photo{
+    box-sizing: border-box;
+    box-shadow: 1px 1px 1px 4px  brown;
+    border-radius: 10px;
+}
+
+.bg{
+    background-color: rgb(44, 36, 36);
+    padding: 20px;
+}
+.marg{
+   margin: 0;
+   align-items: center;
+}
+.name{
+    font-size: 50px;
+    color: black;
+
+}

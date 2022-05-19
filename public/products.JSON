@@ -1,0 +1,132 @@
+[
+
+   {
+     " key":1,
+     "img":"https://stampaprints.com/assets/product_images/Lipstick-Boxes/Lipstick-Boxes-Wholesale.webp",
+     "name":"Lipistic",
+     "price":440
+   },
+   {
+     " key":2,
+     "img":"https://www.psdmockups.com/wp-content/uploads/2019/04/Cosmetic-Lipstick-Applicator-PSD-Mockup.jpg",
+     "name":"Lipistic",
+     "price":500
+   },
+   {
+     " key":3,
+     "img":"https://i.pinimg.com/originals/eb/b7/f9/ebb7f977adf3e76478a4bd933f4510e4.jpg",
+     "name":"Lipistic",
+     "price":440
+   },
+   {
+     " key":4,
+     "img":"https://www.birchbox.com/images/uploads/W_Mar_Our-Favorite-Lip-Combos_Article_1400x800.jpg",
+     "name":"Cosmetic_Pack",
+     "price":1500
+   },
+   {  "key":5,
+       "img":"https://www.sigmabeauty.com/media/catalog/product/c/d/cdc03_seal_pdp01_1080x1080.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=1080&width=1080&canvas=1080:1080",
+    
+    "name":"Mat_Lipitic",
+    "price":300
+
+   },
+
+   {"key":6,
+      "img":"https://cdn-cf.ipsy.com/contentAsset/image/8f211ec1-55da-4c95-910a-9510f23a2388/fileAsset?byInode=1",
+   
+    "name":"Mate_Lipitic",
+    "price":250
+
+   },
+   {"key":7,
+      "img":"https://cdn.shopify.com/s/files/1/0014/3514/0183/products/24894_H--8901030814891_800x.jpg?v=1606366615",
+    
+    "name":"EyeLiner",
+    "price":250
+
+   },
+   {"key":8,
+      "img":"https://cdn.shopify.com/s/files/1/0014/3514/0183/products/24502_H_81cf49de-f318-45c7-b7d3-70df7bcd5acd.jpg?v=1607325904",
+    "name":"EyeShasow",
+    "price":500
+    
+   },
+   {"key":9,
+      "img":"https://jarlimited.com/wp-content/uploads/2020/09/Beauty-Glazed-60-Color-Eyeshadow-Palette.jpg",
+    "name":"EyeShasow plate",
+    "price":900
+   
+   },
+   {"key":10,
+      "img":"https://focallurebangladesh.com/wp-content/uploads/2021/11/1_Pudaier-Hot-28-colors-glitter-eyeshadow-palette-makeup-face-highlighter-brush-matte-shimmer-waterproof-eye-palette.jpg",
+    "name":"EyeShasow plate",
+    "price":400
+   
+   },
+   {
+      "key":11,
+      "img":"https://media.gettyimages.com/photos/makeup-palette-picture-id1157889388?s=612x612",
+    "name":"Gilliter",
+    "price":350
+
+   
+   },
+   {"key":12,
+      "img":"https://www.ubuy.co.in/productimg/?image=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9JLzcxbldJSVBzbzBMLl9TUzQwMF8uanBn.jpg",
+    "name":"EyeShadow",
+    "price":200
+    
+   },
+   {"key":13,
+      "img":"https://5.imimg.com/data5/FC/FN/MY-50716692/make-up-kit-500x500.jpg",
+    "name":"Makup_Box",
+    "price":2500
+   
+   },
+   {"key":14,
+      "img":"https://ae01.alicdn.com/kf/H94b846c2475b499b9abfe3e37379a52f6/Makeup-Set-Makeup-Kit-Makeup-Set-Box-Professional-Makeup-Full-Suitcase-Makeup-Set-Matte-Lipstick-Makeup.jpg",
+    "name":"Makup_Box",
+    "price":3000
+   
+   },
+   {"key":15,
+      "img":"https://m.media-amazon.com/images/I/81dxLKpqe8L._SL1500_.jpg",
+    "name":"Makup_Box",
+    "price":5000
+   
+   },
+   {"key":15,
+      "img":"https://m.media-amazon.com/images/I/713pX33R5zL._SL1446_.jpg",
+    "name":"Makup_Kit",
+    "price":1000
+   
+   },
+   {"key":15,
+      "img":"https://img.waimaoniu.net/1450/1450-202201201414102252.jpg",
+    "name":"Professonal_Makup",
+    "price":600
+   
+   },
+   {"key":14,
+      "img":"https://img.joomcdn.net/9e767f40a827ae6485168ab8257747f74d6e5311_original.jpeg",
+    
+    "name":"Makup_Brush",
+    "price":300
+   },
+   {"key":15,
+      "img":"https://crashingred.com/wp-content/uploads/2011/09/Maybelline-Lasting-drama-gel-eyeliner-review-dramatic-makeup-beauty-fashion-blog-Sydney-the-best-eyeliner-crashingred-product-review-easy-to-apply.jpg",
+    
+    "name":"EyeLiner",
+    "price":350
+   },
+   {"key":15,
+      "img":"https://media-asia-cdn.oriflame.com/-/media/images/externalImage.ashx?externalMediaId=product-management-media%2F37750%2F37750.png%3Fversion%3D1607574613&w=1440&bc=%23f5f5f5&ib=%23f5f5f5&h=1440&q=30",
+    
+    "name":"EyeLiner",
+    "price":200
+   }
+
+
+
+]

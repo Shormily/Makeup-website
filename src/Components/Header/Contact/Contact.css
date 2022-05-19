@@ -1,0 +1,29 @@
+.resizer{
+    width: 100%;
+    background-color: rgb(105, 1, 1);
+    padding: 10px;
+}
+.input{
+    margin-top: 10px;
+    /* margin-right: 10%; */
+}
+.btn{
+    background-color: brown;
+    padding: 10px;
+}
+
+.contact{
+    margin-top: 10%;
+}
+
+.left{
+    margin-right: 60px;
+}
+
+
+
+
+
+
+
+
